@@ -6,6 +6,6 @@ Il est IMPOSSIBLE d'avoir deux fois le même nombre sur une ligne, sur une colon
 
 Détails de l'architecture :
 
--> Models : Dossier qui contient la partie "Modèle" du projet (ici vide mais faire comme s'il existait les fichiers/dossiers avec le nécessaire)
--> View : Dossier qsui contient la partie "Vue" du projet (les différentes images, pareil que pour le modèle vide également (raison principale : éventuelle suspicion de triche...) mais faire comme si)
--> Controller : Dossier qui contient la partie "Contrôleur" du projet (les principales fonctions d'interaction du jeu)
+-> Model (model.c) : Dossier qui contient la partie "Modèle" du projet (ici vide mais faire comme s'il existait les fichiers/dossiers avec le nécessaire)
+-> View (view.c) : Dossier qsui contient la partie "Vue" du projet (les différentes images, pareil que pour le modèle vide également (raison principale : éventuelle suspicion de triche...) mais faire comme si)
+-> Controller (controller.c) : Dossier qui contient la partie "Contrôleur" du projet (les principales fonctions d'interaction du jeu)
